@@ -1,5 +1,11 @@
 # SMCIﾉReki (Project History)
 
+## [PYT 1.1] - 2686-03-09 JST
+### Added
+* **ID1.2版更新の対応**（項目追加）: 更新後初項目はSM-PYT000119
+
+---
+
 ## [ID 1.2] - 2686-01-27 JST
 ### Added
 * **SMCI-XX88 学部学科等**
